@@ -1,0 +1,23 @@
+# ログファイル
+*.log
+
+# 一時ファイル
+*.tmp
+
+# node.js
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+ENV/
+
+# エディタ設定
+.idea/
+.vscode/
+*.swp
+*.swo
